@@ -3,27 +3,27 @@ Overview
 В датасете есть разнообразные признаки, такие как демографическая информация, кредитная история, статус занятости, уровень дохода, существующая задолженность и другие соответствующие финансовые метрики, предоставляя обширную основу для сложного анализа данных и принятия решений.
 Максимальное пороговое значение MSE, которое можно получить при предсказаниях на тестовой выборке и при котором можно получить баллы в рейтинг составляет 50.
 
-ApplicationDate: Дата подачи заявки на кредит
-Age: Возраст заявителя
-AnnualIncome: Годовой доход
-CreditScore: Оценка кредитоспособности
-LoanAmount: Запрашиваемая сумма кредита
-LoanDuration: Срок погашения кредита
-MaritalStatus: Семейное положение заявителя
-NumberOfDependents: Количество иждивенцев
-HomeOwnershipStatus: Статус владения жильем
-MonthlyDebtPayments: Ежемесячные обязательства по долгам
-CreditCardUtilizationRate: Процент использования кредитной карты
-NumberOfOpenCreditLines: Активные кредитные линии
-NumberOfCreditInquiries: Количество запросов на кредит
-DebtToIncomeRatio: Соотношение долга к доходу
-BankruptcyHistory: История банкротств
-LoanPurpose: Цель кредита
-PreviousLoanDefaults: Предыдущие дефолты по кредитам
-PaymentHistory: История платежей
-LengthOfCreditHistory: Длительность кредитной истории
-SavingsAccountBalance: Баланс сберегательного счета
-CheckingAccountBalance: Баланс расчетного счета
+ApplicationDate: Дата подачи заявки на кредит <br>
+Age: Возраст заявителя <br>
+AnnualIncome: Годовой доход <br>
+CreditScore: Оценка кредитоспособности <br>
+LoanAmount: Запрашиваемая сумма кредита <br>
+LoanDuration: Срок погашения кредита <br>
+MaritalStatus: Семейное положение заявителя <br>
+NumberOfDependents: Количество иждивенцев <br>
+HomeOwnershipStatus: Статус владения жильем <br>
+MonthlyDebtPayments: Ежемесячные обязательства по долгам <br>
+CreditCardUtilizationRate: Процент использования кредитной карты <br>
+NumberOfOpenCreditLines: Активные кредитные линии <br>
+NumberOfCreditInquiries: Количество запросов на кредит <br>
+DebtToIncomeRatio: Соотношение долга к доходу <br>
+BankruptcyHistory: История банкротств <br>
+LoanPurpose: Цель кредита <br>
+PreviousLoanDefaults: Предыдущие дефолты по кредитам <br>
+PaymentHistory: История платежей <br>
+LengthOfCreditHistory: Длительность кредитной истории <br>
+SavingsAccountBalance: Баланс сберегательного счета <br>
+CheckingAccountBalance: Баланс расчетного счета <br>
 TotalAssets: Общая стоимость активов
 TotalLiabilities: Общая сумма обязательств
 MonthlyIncome: Ежемесячный доход
